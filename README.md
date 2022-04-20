@@ -1,3 +1,2 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Preview](https://dmitrymaks252.github.io/weather-app-react-ts-redux/).
